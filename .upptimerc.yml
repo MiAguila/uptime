@@ -10,12 +10,12 @@ sites:
   - name: Orders Api Tiendas on247
     url: https://orders.api.on247.katapultcommerce.com/admin
   - name: metrics
-    url: https://metrics.api.katapultcommerce.com/api/event
+    url: https://metrics.api.katapultcommerce.com/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: miaguila.github.io/uptime
+  cname: uptime.katapultcommerce.com/
   # baseUrl: /your-repo-name
   logoUrl: https://media-exp2.licdn.com/dms/image/C560BAQG0w85tovXNDw/company-logo_200_200/0/1652748232832?e=1663200000&v=beta&t=DqF-eoJkRC69MaeTKgVcReyx79X6vh3FtQjYxQwYwYM
   name: Katapult Commerce Uptime Page
