@@ -1,22 +1,22 @@
 [
   {
     "name": "Orders production",
-    "url": "https://orders-api.miaguila.com/api/health/",
-    "icon": "https://favicons.githubusercontent.com/orders-api.miaguila.com",
+    "url": "https://orders.api.katapultcommerce.com/api/health/",
+    "icon": "https://favicons.githubusercontent.com/orders.api.katapultcommerce.com",
     "slug": "orders-production",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
-    "time": 242,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.88%",
+    "time": 244,
     "timeDay": 301,
-    "timeWeek": 281,
-    "timeMonth": 228,
-    "timeYear": 242,
+    "timeWeek": 283,
+    "timeMonth": 231,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-09-13": 0,
+      "2022-09-13": 3,
       "2022-09-10": 53
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 235,
-    "timeDay": 155,
-    "timeWeek": 230,
-    "timeMonth": 212,
-    "timeYear": 235,
+    "time": 237,
+    "timeDay": 244,
+    "timeWeek": 240,
+    "timeMonth": 215,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-08-24": 40
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 411,
-    "timeWeek": 603,
-    "timeMonth": 366,
-    "timeYear": 355,
+    "time": 358,
+    "timeDay": 454,
+    "timeWeek": 590,
+    "timeMonth": 370,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 184,
-    "timeDay": 157,
-    "timeWeek": 206,
-    "timeMonth": 180,
-    "timeYear": 184,
+    "time": 187,
+    "timeDay": 215,
+    "timeWeek": 214,
+    "timeMonth": 182,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2022-08-10": 24
     }
