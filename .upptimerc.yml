@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: Orders production
-    url: https://orders-api.miaguila.com/api/health/
+    url: https://orders.api.katapultcommerce.com/api/health/
   - name: Orders Api Tiendas 3B
     url: https://orders.api.t3b.katapultcommerce.com/api/health/
   - name: Orders Api Tiendas on247
