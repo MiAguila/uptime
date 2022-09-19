@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/orders.api.katapultcommerce.com",
     "slug": "orders-production",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 237,
-    "timeDay": 196,
-    "timeWeek": 240,
-    "timeMonth": 232,
+    "timeDay": 239,
+    "timeWeek": 228,
+    "timeMonth": 235,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-09-10": 53
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 236,
-    "timeDay": 212,
-    "timeWeek": 238,
-    "timeMonth": 223,
-    "timeYear": 236,
+    "time": 237,
+    "timeDay": 242,
+    "timeWeek": 233,
+    "timeMonth": 226,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-08-24": 40
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 235,
-    "timeWeek": 289,
+    "time": 343,
+    "timeDay": 251,
+    "timeWeek": 286,
     "timeMonth": 348,
-    "timeYear": 345,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 185,
-    "timeDay": 193,
-    "timeWeek": 197,
-    "timeMonth": 191,
+    "timeDay": 174,
+    "timeWeek": 183,
+    "timeMonth": 193,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2022-08-10": 24
