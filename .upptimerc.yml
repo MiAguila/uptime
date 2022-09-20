@@ -7,8 +7,8 @@ sites:
     url: https://orders.api.katapultcommerce.com/api/health/
   - name: Orders Api Tiendas 3B
     url: https://orders.api.t3b.katapultcommerce.com/api/health/
-  - name: Orders Api Tiendas on247
-    url: https://orders.api.on247.katapultcommerce.com/api/health/
+#  - name: Orders Api Tiendas on247
+#    url: https://orders.api.on247.katapultcommerce.com/api/health/
   - name: metrics
     url: https://metrics.api.katapultcommerce.com/api/health
 
