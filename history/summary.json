@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
-    "time": 240,
-    "timeDay": 356,
+    "time": 239,
+    "timeDay": 285,
     "timeWeek": 218,
-    "timeMonth": 239,
-    "timeYear": 240,
+    "timeMonth": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2022-09-10": 53
     }
@@ -30,33 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 238,
-    "timeDay": 304,
-    "timeWeek": 240,
+    "time": 237,
+    "timeDay": 260,
+    "timeWeek": 237,
     "timeMonth": 228,
-    "timeYear": 238,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-08-24": 40
-    }
-  },
-  {
-    "name": "Orders Api Tiendas on247",
-    "url": "https://orders.api.on247.katapultcommerce.com/api/health/",
-    "icon": "https://favicons.githubusercontent.com/orders.api.on247.katapultcommerce.com",
-    "slug": "orders-api-tiendas-on247",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 308,
-    "timeWeek": 241,
-    "timeMonth": 335,
-    "timeYear": 342,
-    "dailyMinutesDown": {
-      "2022-09-20": 0
     }
   },
   {
@@ -70,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 187,
-    "timeDay": 280,
-    "timeWeek": 188,
-    "timeMonth": 193,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 256,
+    "timeWeek": 193,
+    "timeMonth": 194,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-08-10": 24
     }
