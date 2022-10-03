@@ -2,7 +2,7 @@
   {
     "name": "Orders production",
     "url": "https://orders.api.katapultcommerce.com/api/health/",
-    "icon": "https://favicons.githubusercontent.com/orders.api.katapultcommerce.com",
+    "icon": "https://icons.duckduckgo.com/ip3/orders.api.katapultcommerce.com.ico",
     "slug": "orders-production",
     "status": "up",
     "uptime": "99.93%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
-    "time": 234,
-    "timeDay": 122,
-    "timeWeek": 177,
-    "timeMonth": 233,
-    "timeYear": 234,
+    "time": 235,
+    "timeDay": 318,
+    "timeWeek": 190,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2022-09-10": 53
     }
@@ -22,7 +22,7 @@
   {
     "name": "Orders Api Tiendas 3B",
     "url": "https://orders.api.t3b.katapultcommerce.com/api/health/",
-    "icon": "https://favicons.githubusercontent.com/orders.api.t3b.katapultcommerce.com",
+    "icon": "https://icons.duckduckgo.com/ip3/orders.api.t3b.katapultcommerce.com.ico",
     "slug": "orders-api-tiendas-3-b",
     "status": "up",
     "uptime": "99.95%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 235,
-    "timeDay": 166,
-    "timeWeek": 197,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 306,
+    "timeWeek": 205,
+    "timeMonth": 238,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-08-24": 40
     }
@@ -42,7 +42,7 @@
   {
     "name": "metrics",
     "url": "https://metrics.api.katapultcommerce.com/api/health",
-    "icon": "https://favicons.githubusercontent.com/metrics.api.katapultcommerce.com",
+    "icon": "https://icons.duckduckgo.com/ip3/metrics.api.katapultcommerce.com.ico",
     "slug": "metrics",
     "status": "up",
     "uptime": "99.97%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 191,
-    "timeDay": 120,
-    "timeWeek": 169,
-    "timeMonth": 201,
-    "timeYear": 191,
+    "time": 194,
+    "timeDay": 355,
+    "timeWeek": 190,
+    "timeMonth": 207,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-08-10": 24
     }
