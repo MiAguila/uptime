@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/orders.api.katapultcommerce.com.ico",
     "slug": "orders-production",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 239,
-    "timeDay": 230,
-    "timeWeek": 294,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "uptimeYear": "99.95%",
+    "time": 237,
+    "timeDay": 116,
+    "timeWeek": 265,
+    "timeMonth": 235,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-09-10": 53
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 241,
-    "timeDay": 236,
-    "timeWeek": 265,
-    "timeMonth": 247,
-    "timeYear": 241,
+    "time": 239,
+    "timeDay": 138,
+    "timeWeek": 229,
+    "timeMonth": 244,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2022-08-24": 40
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 200,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 224,
-    "timeYear": 200,
+    "time": 198,
+    "timeDay": 55,
+    "timeWeek": 198,
+    "timeMonth": 219,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2022-08-10": 24
     }
