@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/orders.api.katapultcommerce.com.ico",
     "slug": "orders-production",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 216,
-    "timeDay": 294,
-    "timeWeek": 243,
-    "timeMonth": 192,
-    "timeYear": 216,
+    "uptimeYear": "99.98%",
+    "time": 215,
+    "timeDay": 79,
+    "timeWeek": 168,
+    "timeMonth": 188,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-09-10": 53
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 222,
-    "timeDay": 321,
-    "timeWeek": 186,
-    "timeMonth": 198,
+    "timeDay": 290,
+    "timeWeek": 210,
+    "timeMonth": 200,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2022-08-24": 40
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 183,
-    "timeDay": 310,
-    "timeWeek": 165,
-    "timeMonth": 164,
-    "timeYear": 183,
+    "time": 182,
+    "timeDay": 64,
+    "timeWeek": 162,
+    "timeMonth": 159,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2022-08-10": 24
     }
