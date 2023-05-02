@@ -20,30 +20,6 @@
     }
   },
   {
-    "name": "Orders Api Tiendas 3B",
-    "url": "https://orders.api.t3b.katapultcommerce.com/api/health/",
-    "icon": "https://icons.duckduckgo.com/ip3/orders.api.t3b.katapultcommerce.com.ico",
-    "slug": "orders-api-tiendas-3-b",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "68.63%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "99.16%",
-    "time": 227,
-    "timeDay": 0,
-    "timeWeek": 186,
-    "timeMonth": 212,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2023-05-02": 2,
-      "2023-05-01": 1440,
-      "2023-04-30": 1440,
-      "2023-04-29": 280,
-      "2022-08-24": 40
-    }
-  },
-  {
     "name": "metrics",
     "url": "https://metrics.api.katapultcommerce.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.api.katapultcommerce.com.ico",
