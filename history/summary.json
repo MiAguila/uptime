@@ -6,7 +6,7 @@
     "slug": "orders-production",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "22.61%",
+    "uptimeDay": "22.78%",
     "uptimeWeek": "69.19%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "22.60%",
-    "uptimeWeek": "69.18%",
-    "uptimeMonth": "92.91%",
+    "uptimeWeek": "69.16%",
+    "uptimeMonth": "92.90%",
     "uptimeYear": "99.41%",
     "time": 180,
     "timeDay": 241,
@@ -38,7 +38,8 @@
     "timeMonth": 145,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-12-13": 1114,
+      "2023-12-14": 2,
+      "2023-12-13": 1115,
       "2023-12-12": 1440,
       "2023-12-11": 552
     }
