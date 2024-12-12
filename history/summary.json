@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/orders.api.katapultcommerce.com.ico",
     "slug": "orders-production",
     "status": "down",
-    "uptime": "57.37%",
+    "uptime": "57.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.38%",
-    "time": 224,
+    "uptimeYear": "0.21%",
+    "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-12-11": 3,
+      "2024-12-12": 3,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -379,8 +380,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 614,
-      "2023-12-14": 46,
-      "2023-12-13": 1114
+      "2023-12-14": 46
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/metrics.api.katapultcommerce.com.ico",
     "slug": "metrics",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.38%",
+    "uptimeYear": "0.21%",
     "time": 179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-12-11": 3,
+      "2024-12-12": 3,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -763,8 +764,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 633,
-      "2023-12-14": 23,
-      "2023-12-13": 1115
+      "2023-12-14": 23
     }
   }
 ]
